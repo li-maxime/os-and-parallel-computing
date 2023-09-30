@@ -1,0 +1,54 @@
+/home/maxime/Documents/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/maxime/Documents/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/maxime/Desktop/SEPC/ensimag-video-master -B /home/maxime/Desktop/SEPC/ensimag-video-master/cmake-build-debug
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+Package ogg was not found in the pkg-config search path.
+Perhaps you should add the directory containing `ogg.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'ogg' found
+Package vorbis was not found in the pkg-config search path.
+Perhaps you should add the directory containing `vorbis.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'vorbis' found
+Package theora was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theora.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theora' found
+Package theoradec was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theoradec.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theoradec' found
+Package sdl2 was not found in the pkg-config search path.
+Perhaps you should add the directory containing `sdl2.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'sdl2' found
+Package ogg was not found in the pkg-config search path.
+Perhaps you should add the directory containing `ogg.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'ogg' found
+Package vorbis was not found in the pkg-config search path.
+Perhaps you should add the directory containing `vorbis.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'vorbis' found
+Package theora was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theora.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theora' found
+Package theoradec was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theoradec.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theoradec' found
+Package sdl2 was not found in the pkg-config search path.
+Perhaps you should add the directory containing `sdl2.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'sdl2' found
+-- cflags: 
+-- ldflags: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/maxime/Desktop/SEPC/ensimag-video-master/cmake-build-debug

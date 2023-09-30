@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxime/Desktop/SEPC/malloc/src/mem.h
+
+/home/maxime/Desktop/SEPC/malloc/src/memshell.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+mem.h
+/home/maxime/Desktop/SEPC/malloc/src/mem.h
+

@@ -1,0 +1,16 @@
+# ninja log v5
+1	435	1669420950734574996	CMakeFiles/ensivideo.dir/src/ensivideo.c.o	a805eb475ec87a43
+1	445	1669420950746574993	CMakeFiles/ensivideo.dir/src/ensivorbis.c.o	87af2b19062d7e30
+2	470	1669420950770574987	CMakeFiles/ensivideo.dir/src/synchro.c.o	a60981e3d8b56c54
+1	472	1669420950774574986	CMakeFiles/ensivideo.dir/src/ensitheora.c.o	28f8a3d4d18da22d
+2	498	1669420950798574980	CMakeFiles/ensivideo.dir/src/stream_common.c.o	1d62048c977d11d0
+2	510	1669420950810574978	CMakeFiles/ensivideo.dir/src/oggstream.c.o	f868ba7275a54589
+1	303	1669421230290731514	CMakeFiles/ensivideo.dir/src/synchro.c.o	a60981e3d8b56c54
+2	442	1669423316338810837	CMakeFiles/ensivideo.dir/src/oggstream.c.o	f868ba7275a54589
+2	445	1669423316342810918	CMakeFiles/ensivideo.dir/src/ensivorbis.c.o	87af2b19062d7e30
+1	445	1669423316342810918	CMakeFiles/ensivideo.dir/src/ensivideo.c.o	a805eb475ec87a43
+2	455	1669423316350811082	CMakeFiles/ensivideo.dir/src/synchro.c.o	a60981e3d8b56c54
+1	457	1669423316354811163	CMakeFiles/ensivideo.dir/src/ensitheora.c.o	28f8a3d4d18da22d
+3	517	1669423316414812386	CMakeFiles/ensivideo.dir/src/stream_common.c.o	1d62048c977d11d0
+2	334	1669423653110163991	CMakeFiles/ensivideo.dir/src/ensivideo.c.o	a805eb475ec87a43
+2	381	1669423653158163787	CMakeFiles/ensivideo.dir/src/ensitheora.c.o	28f8a3d4d18da22d
